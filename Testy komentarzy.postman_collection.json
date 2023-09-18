@@ -121,7 +121,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "   {\n        \"body\": \"some comment\",\n        \"username\" : \"sad\",\n        \"postId\": 1\n       \n    }",
+					"raw": "   {\n        \"body\": \"some comment\",\n        \"username\" : \"sad\",\n        \"postId\": 187\n       \n    }",
 					"options": {
 						"raw": {
 							"language": "json"
